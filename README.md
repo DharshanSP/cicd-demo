@@ -51,6 +51,8 @@ The server will run, and you can visit it at your configured port.
 To execute the automated test suite locally:
 ```bash
 npm test
+<img width="822" height="290" alt="Screenshot 2026-05-27 212219" src="https://github.com/user-attachments/assets/fa328456-c556-40ca-b29b-10cf4a8ebc19" />
+
 ```
 
 ## How the CI/CD Pipeline Works
@@ -70,3 +72,4 @@ This foundational project can be extended by integrating with:
 - Cloud Providers (AWS EC2, Render, Railway)
 - SonarQube for Code Analysis
 - Slack/Email Notifications on workflow completion
+me
